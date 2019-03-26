@@ -103,7 +103,13 @@ header .profile-image:hover {
 .card:hover {
   border-color: #ff99ff;
 }
-
+ul.hobbies {
+  padding: 0;
+  list-style: none;
+}
+ul.hobbies li {
+  margin-bottom: 5px;
+}
 ul.skills {
   padding: 0;
   text-align: left;
